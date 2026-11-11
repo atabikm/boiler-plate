@@ -1,4 +1,4 @@
-# LMS Boilerplate
+# Boilerplate
 
 Boilerplate aplikasi full-stack untuk pengembangan berikutnya. Struktur ini
 memisahkan frontend React/Vite, backend Express/TypeScript, dan PostgreSQL
